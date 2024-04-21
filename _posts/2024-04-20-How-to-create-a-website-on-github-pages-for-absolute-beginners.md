@@ -3,6 +3,8 @@ layout: post
 title: How to create a website on github pages for absolute beginners (IN THE MAKING)
 ---
 
+the easiest way: Jekyll theme --> fork it.
+
 I'm writing this tutorial because it might come in handy in the future, because I will probably forget everything I just learned until the next time I will need it. So I've decided to write it down. 
 
 [https://pages.github.com/](https://pages.github.com/)
