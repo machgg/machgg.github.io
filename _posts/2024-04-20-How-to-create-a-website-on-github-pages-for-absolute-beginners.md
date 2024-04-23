@@ -30,8 +30,6 @@ If you would like to change the picture, go again to files list of your reposito
 
 ```avatar: "/assets/img/small-charming-kitten-office-near-keyboard-kitten-is-exploring-computer_199743-16006.jpg"```
 
-{: HERE.box-note}
-
 Wanna make your own repository from the beggining and make it more difficult for yourself? Here you go bestie. You can either start from the beginning and use the supported github themes ([https://pages.github.com/themes/](https://pages.github.com/themes/)) or start from the scratch and create your own (but that is advanced skill and you would have to do your own research and learning, cuz I don't know much about this one (yet)).
 
 The positive thing about the more dificult way to create your own website with supported github theme:
