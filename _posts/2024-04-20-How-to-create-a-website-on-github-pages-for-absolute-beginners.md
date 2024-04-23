@@ -1,10 +1,5 @@
 ---
 layout: post
-title: How to create a website on github pages for absolute beginners (IN THE MAKING)
----
-
----
-layout: post
 title:  How to create a website on github pages
 subtitle: for absolute beginners (IN THE MAKING)
 cover-img: /assets/img/path.jpg
