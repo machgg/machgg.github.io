@@ -12,8 +12,10 @@ I'm writing this tutorial because it might come in handy in the future, since I 
 
 <h1>The easiest way </h1>
 
-You can find someone else's github repository with their own custom Jekyll theme and then you will fork it.
+You can find someone else's github repository with their own custom Jekyll theme and then you will fork it. [https://github.com/topics/jekyll-theme](https://github.com/topics/jekyll-theme)
 I used this repository [https://github.com/daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) and I believe you can fork other repositories the same way as I did with this repository from daattali.
+
+Jekyll is a static site generator written in Ruby used to customizing design of the website.
 
 1. Click on the fork button (button at the top right corner) to fork your chosen repository. New window will open.
 2. Rename the repository, so it would include your username in its name. (In my case it was machgg.github.io --> my username is machgg)
@@ -29,6 +31,17 @@ If you would like to change the picture, go again to files list of your reposito
 ```avatar: "/assets/img/small-charming-kitten-office-near-keyboard-kitten-is-exploring-computer_199743-16006.jpg"```
 
 {: HERE.box-note}
+
+Wanna make your own repository from the beggining and make it more difficult for yourself? Here you go bestie. You can either start from the beginning and use the supported github themes ([https://pages.github.com/themes/](https://pages.github.com/themes/)) or start from the scratch and create your own (but that is advanced skill and you would have to do your own research and learning, cuz I don't know much about this one (yet)).
+
+The positive thing about the more dificult way to create your own website with supported github theme:
+- You don't have to fork anyone's repository, you will have your own work and you will probably learn new things
+
+The negative thing:
+- Supported github themes are not that visually pleasing as themes, that you can fork
+- Be prepared that you will have to install Jekyll and Ruby.
+
+Important resources: (will work on this part later)
 
 [https://pages.github.com/](https://pages.github.com/)
 
