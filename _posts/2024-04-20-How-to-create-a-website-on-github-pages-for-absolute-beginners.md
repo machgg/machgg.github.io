@@ -15,7 +15,8 @@ I'm writing this tutorial because it might come in handy in the future, since I 
 You can find someone else's github repository with their own custom Jekyll theme and then you will fork it. [https://github.com/topics/jekyll-theme](https://github.com/topics/jekyll-theme)
 I used this repository [https://github.com/daattali/beautiful-jekyll](https://github.com/daattali/beautiful-jekyll) and I believe you can fork other repositories the same way as I did with this repository from daattali.
 
-{: .box-note} Note: Jekyll is a static site generator written in Ruby used to customizing design of the website.
+{: .box-note}
+**Note:** Jekyll is a static site generator written in Ruby used to customizing design of the website.
 
 1. Click on the fork button (button at the top right corner) to fork your chosen repository. New window will open.
 2. Rename the repository, so it would include your username in its name. (In my case it was machgg.github.io --> my username is machgg)
