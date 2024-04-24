@@ -31,14 +31,16 @@ If you would like to change the picture, go again to files list of your reposito
 
 ```avatar: "/assets/img/small-charming-kitten-office-near-keyboard-kitten-is-exploring-computer_199743-16006.jpg"```
 
-Wanna make your own repository from the beggining and make it more difficult for yourself? Here you go bestie. You can either start from the beginning and use the supported github themes ([https://pages.github.com/themes/](https://pages.github.com/themes/)) or start from the scratch and create your own (but that is advanced skill and you would have to do your own research and learning, cuz I don't know much about this one (yet)).
+Wanna make your own repository from the beggining and make it more difficult for yourself? Here you go bestie. You can either start from the beginning and use the supported github themes ([https://pages.github.com/themes/](https://pages.github.com/themes/)) or start completely from the scratch and create your own github theme (but that is an advanced skill and you would have to do your own research and learning, because I don't know much about this one (yet)).
 
-The positive thing about the more dificult way to create your own website with supported github theme:
-- You don't have to fork anyone's repository, you will have your own work and you will probably learn new things
+The positive aspects of the more difficult approach (with supported github theme):
+- You don't have to fork anyone's repository, you will have your own work in your repository and you will probably learn new things
 
-The negative thing:
-- Supported github themes are not that visually pleasing as themes, that you can fork
-- Be prepared that you will have to install Jekyll and Ruby.
+The negative aspects of the more difficult approach (with supported github theme):
+- Supported github themes are not that visually pleasing as those themes, that you can fork
+- Be prepared that you will have to install Jekyll and Ruby
+
+If you really don't need to learn something new and you just need some website for your CV, portfolio or bussiness, then don't bother with the difficult path and just fork it.
 
 Important resources: (will work on this part later)
 
