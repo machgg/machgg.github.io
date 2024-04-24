@@ -4,7 +4,7 @@ title:  How to create a website on github pages (IN THE MAKING)
 subtitle: for absolute beginners
 cover-img: /assets/img/hatsune-miku.png
 thumbnail-img: /assets/img/hatsune-miku.png
-share-img: /assets/img/
+share-img: /assets/img/hatsune-cute.jpg
 tags: [webdev]
 author: mach
 ---
