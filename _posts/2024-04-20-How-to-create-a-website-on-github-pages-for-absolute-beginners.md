@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  How to create a website on github pages (in progress)
-subtitle: for absolute beginners
+title:  How to create a website on github pages for absolute beginners
+subtitle:
 cover-img: /assets/img/hatsune-miku-anime-girls-vocaloid-anime-wallpaper-preview.jpg
 thumbnail-img: /assets/img/hatsune-miku.png
 share-img: /assets/img/hatsune-cute.jpg
